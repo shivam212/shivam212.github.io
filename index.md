@@ -55,6 +55,6 @@ and learning new stuff.
 ---
    My Github : [shivam212](https://www.github.com/shivam212 "My Github")   
    My Email : shivamsinha212@gmail.com   
-   My LinkedIn :[Shivam-Sinha](www.linkedin.com/in/shivamsinha212 "My LinkedIn")
+   My LinkedIn :[Shivam-Sinha](https://www.linkedin.com/in/shivamsinha212 "My LinkedIn")
 
 ---

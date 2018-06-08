@@ -44,7 +44,6 @@ using Python.Also know a bit of **R** which I am learning for Data Science.
  -----
 # Interests
 ---
-
 I am interested mainly in Data Science and its implementations. I also love playing around
 and learning new stuff.
 

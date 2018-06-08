@@ -41,7 +41,7 @@ using Python.Also know a bit of **R** which I am learning for Data Science.
    it on your screen as Notifications.
 
    I have also been working on a Media Player which can run synced over a network, using Python. [SyncMedia](https://github.com/shivam212/SyncMedia)   
-
+ ---
 # Interests
 ---
 
@@ -54,6 +54,6 @@ and learning new stuff.
 ---
    My Github : [shivam212](https://www.github.com/shivam212 "My Github")   
    My Email : shivamsinha212@gmail.com   
-
+   LinkedIn : www.linkedin.com/in/shivamsinha212
 
 ---

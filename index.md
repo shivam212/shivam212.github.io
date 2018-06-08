@@ -41,7 +41,9 @@ using Python.Also know a bit of **R** which I am learning for Data Science.
    it on your screen as Notifications.
 
    I have also been working on a Media Player which can run synced over a network, using Python. [SyncMedia](https://github.com/shivam212/SyncMedia)   
- -----
+ 
+ ---
+
 # Interests
 ---
 I am interested mainly in Data Science and its implementations. I also love playing around

@@ -1,12 +1,19 @@
 @import "fonts";
 @import "rouge-github";
 
+@keyframes example {
+    from  {background-color: #BFE9F7;};
+    to {background-color: #B4DBF0;};
+    }
+
 body {
-  background-color: #fff;
+   background-color: #fff;
+
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {

@@ -23,7 +23,7 @@ I am a University student currently studying Electronics.Although being from Ele
 I started coding in **Java** as it was part of my school curriculum, I learnt **C** as part
 of the College Curriculum in the first Semester.After that I learnt **C++** and did a bit of
 Competitive Programming.I learnt **Python** after that, and now have been mostly coding
-using Python.Also know a bit of **R** which I am learning for Data Science.
+using Python.I also know  **R** which I am learning for Data Science, Also a Kaggler.
 
 1. C++
 2. C

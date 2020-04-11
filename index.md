@@ -7,7 +7,7 @@ layout: default
 
 # About Me
 ---
-I am a University student currently studying Electronics.Although being from Electronics
+I am a University student currently studying Electronics. Although being from Electronics
 ,I have a major interest in coding and have been actively pursuing it.
 
    [SKILLS](#skills)   
@@ -22,12 +22,10 @@ I am a University student currently studying Electronics.Although being from Ele
 
 I started coding in **Java** as it was part of my school curriculum, I learnt **C** as part
 of the College Curriculum in the first Semester.After that I learnt **C++** and now I actively 
-do Competitive Programming.I learnt **Python** after that, and now have been doing scripting with Python.I also know  **R** which I learnt for Data Science.
-
+do Competitive Programming.I learnt **Python** after that, and now have been doing scripting with Python.
 1. C++
 2. C
 3. Python
-4. R
 
 
 ---
